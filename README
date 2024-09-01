@@ -1,4 +1,3 @@
-```markdown
 # News Scraper for Times of India
 
 This project is a Python-based web scraper designed to extract news articles from the Times of India website. It allows you to scrape a random selection of articles from a specified range of years and save the extracted data (title, date, content, and URL) to a CSV file.
