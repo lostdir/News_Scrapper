@@ -100,4 +100,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to adjust the `Installation`, `Usage`, and `Functionality` sections according to your specific setup and requirements. Make sure to replace `yourusername` in the GitHub URL with your actual GitHub username.
+
