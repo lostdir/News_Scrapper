@@ -27,7 +27,7 @@ To use this scraper, you need to have Python installed. Follow the steps below t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/news_scraper.git
+   git clone https://github.com/lostdir/News_Scrapper.git
    cd news_scraper
    ```
 
